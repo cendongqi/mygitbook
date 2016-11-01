@@ -4,26 +4,26 @@
 
 - 第一节课的笔记
     - 重点一
+    
 
-```objc
-- (void)viewDidLoad {
+    - (void)viewDidLoad {
 
- [super viewDidLoad];
+    [super viewDidLoad];
 
- // Do any additional setup after loading the view, typically from a nib.
+    // Do any additional setup after loading the view,     typically from a nib.
 
-}
-
+    }
 
 
-- (void)didReceiveMemoryWarning {
 
- [super didReceiveMemoryWarning];
+    - (void)didReceiveMemoryWarning {
 
- // Dispose of any resources that can be recreated.
+     [super didReceiveMemoryWarning];
 
-}
-```
+     // Dispose of any resources that can be recreated.
+
+    }
+
 - 第二节课的笔记
     - 重点一
 ![weak引用](/assets/iOS项目启动过程.png)
